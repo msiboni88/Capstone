@@ -1,7 +1,7 @@
 # Capstone
 
 Create image recognition model that can answer the age old question, is this a Chihuahua or a Blueberry Muffin: 
-![]@https://github.com/msiboni88/Capstone/blob/master/images/1*bt-E2YcPafjiPbZFDMMmNQ.jpeg
+![](https://github.com/msiboni88/Capstone/blob/master/images/1*bt-E2YcPafjiPbZFDMMmNQ.jpeg)
 
 
 ### Status Update
